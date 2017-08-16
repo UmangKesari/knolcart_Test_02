@@ -1,0 +1,4 @@
+
+class ItemsServicesTest extends A {
+
+}

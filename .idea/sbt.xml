@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/accountServices" />
+            <option value="$PROJECT_DIR$/accountServices/project" />
+            <option value="$PROJECT_DIR$/api_resources" />
+            <option value="$PROJECT_DIR$/api_resources/project" />
+            <option value="$PROJECT_DIR$/checkout_Service" />
+            <option value="$PROJECT_DIR$/checkout_Service/project" />
+            <option value="$PROJECT_DIR$/inventory_Service" />
+            <option value="$PROJECT_DIR$/inventory_Service/project" />
+            <option value="$PROJECT_DIR$/knolcart_dashboard" />
+            <option value="$PROJECT_DIR$/knolcart_dashboard/project" />
+            <option value="$PROJECT_DIR$/project" />
+          </set>
+        </option>
+        <option name="resolveSbtClassifiers" value="true" />
+        <option name="sbtVersion" value="0.13.16" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

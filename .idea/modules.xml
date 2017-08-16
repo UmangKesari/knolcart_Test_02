@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accountServices.iml" filepath="$PROJECT_DIR$/.idea/modules/accountServices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accountServices-build.iml" filepath="$PROJECT_DIR$/.idea/modules/accountServices-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api_resouces/api_resouces.iml" filepath="$PROJECT_DIR$/api_resouces/api_resouces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_resources.iml" filepath="$PROJECT_DIR$/.idea/modules/api_resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api_resources-build.iml" filepath="$PROJECT_DIR$/.idea/modules/api_resources-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checkout_Service.iml" filepath="$PROJECT_DIR$/.idea/modules/checkout_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checkout_Service-build.iml" filepath="$PROJECT_DIR$/.idea/modules/checkout_Service-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory_Service.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory_Service-build.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory_Service-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knolcart_dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/knolcart_dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knolcart_dashboard-build.iml" filepath="$PROJECT_DIR$/.idea/modules/knolcart_dashboard-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>
